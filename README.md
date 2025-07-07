@@ -9,7 +9,6 @@ A full-stack project management application built with the MERN stack (MongoDB, 
 - Real-time project status tracking (Not Started, In Progress, Completed)
 - Flexible GraphQL API for efficient data retrieval
 - Responsive React frontend with Apollo Client for state management and caching
-- Secure handling of sensitive data using environment variables
 
 ## Tech Stack
 
